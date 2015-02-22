@@ -1,6 +1,7 @@
 /**
  * 
  * @author Kazushi Kawamura 
+ * how to push..
  *
  */
 public class BlueCar extends Car{
