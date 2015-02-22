@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Kazushi Kawamura 
+ *
+ */
 public class BlueCar extends Car{
 	
 	String color;
